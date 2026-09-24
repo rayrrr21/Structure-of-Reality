@@ -49,7 +49,7 @@ In an expanding space like our own (a de Sitter vacuum), the total informational
 
 > $S_{GH} = \frac{3\pi k_B}{G \Lambda}$
 
-This equation is the cosmological equivalent of a hard drive limit. It dictates that the Hilbert space—the total number of possible quantum states within a specific causal patch of the universe—is strictly finite. The universe literally possesses a maximum memory architecture. 
+This equation is the cosmological equivalent of a hard drive limit. It dictates that the Hilbert space—the total number of possible quantum states within a specific causal patch of the universe—is strictly finite. A single observer's local reality possesses a maximum memory architecture. 
 
 It physically lacks the "RAM" to run a continuous, infinite fractal multiverse. Trying to run an infinite multiverse on a finite de Sitter vacuum is like trying to run *Cyberpunk 2077* on a smart fridge. Eventually, the physics engine is going to clip you through the floor. The assumption of infinite parallel branches is a classical illusion that completely ignores the holographic memory limit of spacetime itself.
 
@@ -89,7 +89,7 @@ To prevent a catastrophic memory overflow, the universe must actively act as a g
 
 ***
 
-## IV. Cosmic Reheating as the Landauer Toll
+## IV. Inflationary Erasure and the Landauer Toll
 
 This brings us to the ultimate question: If unobserved branches are left as unrendered code, what is the physical mechanism that *forces* a branch to render? 
 
@@ -99,15 +99,11 @@ Wave-function collapse—locking a superposition into a definite classical state
 
 How did the universe pay this toll at the beginning of time?
 
-Before the Big Bang, the universe was trapped in an inflationary superposition (a False Vacuum). It was a chaotic, unrendered quantum fog. Transitioning from that eternal multiverse into a definite, localized classical pocket universe required a massive informational overwrite of the pre-inflationary state. 
+During Cosmic Inflation, the universe expanded exponentially, redshifting all prior classical information beyond the horizon—a process known as the Cosmic No-Hair Theorem. Inflation was the ultimate erasure event, leaving behind a cold, low-entropy vacuum. 
 
-Because a standard thermal bath did not exist yet, this thermodynamic cost was dynamically defined by the **Unruh-de Sitter temperature** of the cosmic horizon. 
+But as the universe expanded, tiny quantum fluctuations (density perturbations) were stretched across the cosmic horizon. To freeze these quantum superpositions into the classical, definite structures that would eventually become galaxies, the primordial environment had to act as a hard drive. It had to redundantly record their states, paying the Landauer Toll for every primordial bit of classical structure instantiated.
 
-When inflation ended, the universe underwent a process called **Cosmic Reheating**. The coherent inflationary field violently decayed, dumping immense amounts of potential energy into the void and creating a blazing relativistic plasma of standard model particles. 
-
-In standard cosmology, Reheating is just the mechanism that created matter. But in the JIT framework, **Cosmic Reheating was the macroscopic Landauer heat dumped into the void as the primordial environment overwrote its vacuum degrees of freedom to redundantly lock in a classical pocket universe.** 
-
-The heat of the Big Bang was the literal energetic cost of "booting up" a rendered classical reality. 
+When inflation ended, the universe underwent **Cosmic Reheating**, where the latent energy of the vacuum violently decayed into a blazing plasma. The heat of the Big Bang wasn't just energy creation; it was the massive thermodynamic byproduct of "booting up" the primordial structures of a rendered classical reality.
 
 ***
 
@@ -133,9 +129,9 @@ The unobserved multiverse exists, but only as uncompiled mathematical potential 
 
 This completely redefines our place in the cosmos. 
 
-Under standard physics, the observer is a passive bystander in a universe that exists objectively and completely, with or without us. But under the JIT framework, the observer is a mechanical necessity. The universe requires localized, entropy-producing thermodynamic agents to force basis selection. Without an agent to pay the Landauer toll, the universe remains a stationary, uncomputed fog of probability.
+Under standard physics, the observer is a passive bystander in a universe that exists objectively and completely, with or without us. But under the JIT framework, the thermodynamic observer is a mechanical necessity. The universe requires localized, entropy-producing systems to force basis selection. Without an out-of-equilibrium system to pay the Landauer toll—whether it is a human being, a measuring apparatus, or simply a stray photon scattering off a rock—the universe remains a stationary, uncomputed fog of probability.
 
-The universe does not simply exist. It waits to be rendered. And you are the trigger.
+The universe does not simply exist. It waits for an entropy gradient to force the render.
 
 ***
 **About the Author**
