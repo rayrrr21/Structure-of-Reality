@@ -13,7 +13,7 @@ At the dawn of the 20th century, physics was broken.
 
 Classical mechanics, using a formula known as the Rayleigh-Jeans law, attempted to calculate the energy emitted by a black body. Because classical physics assumed that energy was continuous and could be divided infinitely, the mathematics churned out a terrifying result: it predicted that a simple oven would emit infinite amounts of high-frequency ultraviolet energy. 
 
-Opening your oven to check on a pizza would instantly incinerate the entire solar system. Clearly, a sub-optimal cooking environment. 
+Opening your oven to check on a pizza would instantly incinerate the entire solar system. Clearly, a sub-optimal cooking environment (and terrible for your property value).
 
 This became known as the **Ultraviolet Catastrophe**. The math was flawless, yet it predicted infinite absurdities. It wasn't until Max Planck introduced a radical new idea—that energy is *quantized* into finite, discrete packets—that the infinities vanished. By placing a strict limit on how energy could be divided, Planck saved physics and birthed Quantum Mechanics.
 
@@ -21,7 +21,7 @@ Today, modern cosmology is facing its own Ultraviolet Catastrophe.
 
 The leading theories of the universe—specifically **Eternal Inflation** and the **Everettian Many-Worlds Interpretation**—have infected physics with infinity once again. They assume that reality is continuously and infinitely divisible, generating infinite pocket universes and splitting into infinite parallel dimensions every fraction of a second.
 
-But just like the classical physics of the 1900s, this assumption of infinity breaks the math. It leads to the **Measure Problem**, a cosmological paradox where infinite volumes yield incalculable probabilities, predicting that disembodied "Boltzmann Brains" floating in the void should outnumber real humans a trillion to one. 
+But just like the classical physics of the 1900s, this assumption of infinity breaks the math. It leads to the **Measure Problem**, a cosmological paradox where infinite volumes yield incalculable probabilities, predicting that disembodied "Boltzmann Brains" floating in the void should outnumber real humans a trillion to one. This perfectly explains internet comment sections, but it completely breaks the laws of physics.
 
 Einstein famously said that God doesn't play dice with the universe. But if standard multiverse theory is right, God isn't just playing dice; He’s rolling infinite dice, forever, until the server crashes.
 
@@ -71,7 +71,7 @@ Under the JIT framework, the universe only renders the Causal Patch. But what ha
 
 In 2014, physicists Sean Carroll, Kimberly Boddy, and Jason Pollack published a landmark paper on *Quiescent de Sitter Vacua*. They used the Wheeler-DeWitt equation to mathematically prove that an empty universe lacking an out-of-equilibrium recording device (an observer) settles into a stationary state. **Without an observer to force dynamical decoherence, the vacuum stops computing dynamical fluctuations.** 
 
-This perfectly describes the JIT engine's "sleep mode." When the universal wavefunction branches, the universe does not fully instantiate the parallel worlds. The unobserved branches remain as coarse-grained, uncomputed probability space. They exist as mathematical potential, but they take up zero physical thermodynamic capacity. 
+This perfectly describes the JIT engine's "sleep mode." Basically, if a sector of the universe goes AFK (Away From Keyboard) for too long, the cosmos puts that server to sleep. When the universal wavefunction branches, the universe does not fully instantiate the parallel worlds. The unobserved branches remain as coarse-grained, uncomputed probability space. They exist as mathematical potential, but they take up zero physical thermodynamic capacity. 
 
 By tracing out these unobserved branches, the exponential infinities of eternal inflation vanish. The universe stays safely under its RAM limit.
 
@@ -83,11 +83,11 @@ Accepting the holographic memory limit forces us to reimagine the geometry of re
 
 If the universe has finite memory, it cannot support infinite, strictly orthogonal parallel dimensions. As quantum decoherence continuously spawns new macroscopic states, the system must eventually saturate its holographic bound. 
 
-This enforces a **Compact Many-Worlds** geometry. Rather than diverging infinitely forever like a continuously growing tree, macroscopic branches must eventually overlap. At immense timescales, parallel realities experience "branch collisions." Because the universe runs out of orthogonal space to store new timelines, realities bleed into each other. 
+This enforces a **Compact Many-Worlds** geometry. Rather than diverging infinitely forever like a continuously growing tree, macroscopic branches must eventually overlap. At immense timescales, parallel realities experience "branch collisions." Because the universe runs out of orthogonal space to store new timelines, realities bleed into each other. (If you ever walk into a room and instantly forget why you went in there, it’s probably a branch collision. Or you just need coffee. But we’ll blame the multiverse).
 
 To prevent a catastrophic memory overflow, the universe must actively act as a garbage collector. It systematically coarse-grains unrendered branches, thermalizes ancient information, and encrypts quantum degrees of freedom to keep the active computational load within the Gibbons-Hawking limit. 
 
-In other words: if a tree falls in the woods and no one is around to hear it, the universe uninstalls the tree to save memory.
+In other words: if a tree falls in the woods and no one is around to hear it, the universe uninstalls the tree to save memory. (Sorry, philosophers).
 
 ***
 
@@ -101,7 +101,7 @@ Wave-function collapse—locking a superposition into a definite classical state
 
 How did the universe pay this toll at the beginning of time?
 
-During Cosmic Inflation, the universe expanded exponentially, redshifting all prior classical information beyond the horizon—a process known as the Cosmic No-Hair Theorem. Inflation was the ultimate erasure event, leaving behind a cold, low-entropy vacuum. 
+During Cosmic Inflation, the universe expanded exponentially, redshifting all prior classical information beyond the horizon—a process known as the Cosmic No-Hair Theorem. Inflation was the ultimate erasure event, leaving behind a cold, low-entropy vacuum. Think of it as the universe vigorously clearing its browser history.
 
 But as the universe expanded, tiny quantum fluctuations (density perturbations) were stretched across the cosmic horizon. To freeze these quantum superpositions into the classical, definite structures that would eventually become galaxies, the primordial environment had to act as a hard drive. It had to redundantly record their states, paying the Landauer Toll for every primordial bit of classical structure instantiated.
 
@@ -119,7 +119,7 @@ Consequently, the tension of the domain wall separating the universes is strictl
 
 In 2015, astrophysicist Ranga-Ram Chary analyzed the Cosmic Microwave Background (CMB) maps captured by the Planck satellite. When he subtracted the standard model of the CMB, he found a massive, anomalous thermal "glow." While still fiercely debated by cosmologists, one interpretation is that this glow is a "bruise" left by a collision with a neighboring bubble universe. 
 
-If true, we are looking at the residual Landauer heat of the universe struggling to render a catastrophic collision between two localized servers. 
+If true, we are looking at the residual Landauer heat of the universe struggling to render a catastrophic collision between two localized servers. A cosmic Blue Screen of Death, permanently burned into the microwave background.
 
 ***
 
@@ -133,7 +133,9 @@ This completely redefines our place in the cosmos.
 
 Under standard physics, the observer is a passive bystander in a universe that exists objectively and completely, with or without us. But under the JIT framework, the thermodynamic observer is a mechanical necessity. The universe requires localized, entropy-producing systems to force basis selection. Without an out-of-equilibrium system to pay the Landauer toll—whether it is a human being, a measuring apparatus, or simply a stray photon scattering off a rock—the universe remains a stationary, uncomputed fog of probability.
 
-The universe does not simply exist. It waits for an entropy gradient to force the render.
+The universe does not simply exist. It waits for an entropy gradient to force the render. 
+
+So go ahead and spill your coffee. You're just keeping reality running.
 
 ***
 **Want to see the math that proves this?**
