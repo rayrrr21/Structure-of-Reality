@@ -1,4 +1,4 @@
-# The Cosmological Engine: Holographic Bounds and the JIT Multiverse
+﻿# The Cosmological Engine: Holographic Bounds and the JIT Multiverse
 *Why infinite parallel universes violate the laws of thermodynamics, and how the cosmos operates as a Just-In-Time rendering engine.*
 
 *(Note: This is Part II of The Structure of Reality framework. If you want to see how this rendering engine governs quantum qubits and classical chaos, [read Part I here].)*
@@ -47,7 +47,7 @@ And the universe does not have unlimited memory.
 
 In an expanding space like our own (a de Sitter vacuum), the total informational capacity accessible to any local observer is strictly bounded by a law of quantum gravity known as the **Gibbons-Hawking Entropy**:
 
-> $S_{GH} = \frac{3\pi k_B}{G \Lambda}$
+> {GH} = \frac{3\pi k_B}{G \Lambda}$
 
 This equation is the cosmological equivalent of a hard drive limit. It dictates that the Hilbert space—the total number of possible quantum states within a specific causal patch of the universe—is strictly finite. A single observer's local reality possesses a maximum memory architecture. 
 
@@ -87,13 +87,15 @@ This enforces a **Compact Many-Worlds** geometry. Rather than diverging infinite
 
 To prevent a catastrophic memory overflow, the universe must actively act as a garbage collector. It systematically coarse-grains unrendered branches, thermalizes ancient information, and encrypts quantum degrees of freedom to keep the active computational load within the Gibbons-Hawking limit. 
 
+In other words: if a tree falls in the woods and no one is around to hear it, the universe uninstalls the tree to save memory.
+
 ***
 
 ## IV. Inflationary Erasure and the Landauer Toll
 
 This brings us to the ultimate question: If unobserved branches are left as unrendered code, what is the physical mechanism that *forces* a branch to render? 
 
-In information theory, there is no such thing as a free computation. According to **Landauer's Principle**, erasing or overwriting a physical bit of information requires the dissipation of heat. Specifically, the heat dumped into the environment must be greater than or equal to $k_B T \ln 2$. 
+In information theory, there is no such thing as a free computation. According to **Landauer's Principle**, erasing or overwriting a physical bit of information requires the dissipation of heat. Specifically, the heat dumped into the environment must be greater than or equal to  T \ln 2$. 
 
 Wave-function collapse—locking a superposition into a definite classical state—requires the environment to act as a physical hard drive, overwriting its own physical degrees of freedom to redundantly record the state. This environmental overwriting carries a strict thermodynamic toll.
 
@@ -134,5 +136,9 @@ Under standard physics, the observer is a passive bystander in a universe that e
 The universe does not simply exist. It waits for an entropy gradient to force the render.
 
 ***
+**Want to see the math that proves this?**
+*In [Part I of this series], we proved that this exact JIT rendering engine operates on the micro-scale (using quantum superconducting qubits) and the meso-scale (using the chaotic Lorenz equations). We open-sourced the Python code demonstrating the Extended Kalman Smoother exploding at the Chaotic Information Horizon. [Click here to read Part I and view the GitHub repository](https://github.com/rayrrr21/Structure-of-Reality).*
+
+***
 **About the Author**
-*By Rahman Ray Richardson: USAF Vet, HiFly Aerial founder, & DPB Editor-in-Chief. Transitioning from physical airspace to the thermodynamic limits of spacetime.*
+*Rahman R Richardson is a U.S. Air Force Retired Veteran, published author, and recognized thought leader at the intersection of complex systems and physical reality. Following a career in elite aviation and unmanned systems — serving as the founder of HiFly Aerial and the Editor-in-Chief of The Drone Pilot Brief (DPB) — their work has pivoted to theoretical physics. They are currently the architect of The Structure of Reality Project, an open-source framework mapping the thermodynamic and informational limits of the cosmos. Read the formal physics proofs and Python code on [GitHub](https://github.com/rayrrr21/Structure-of-Reality).*
