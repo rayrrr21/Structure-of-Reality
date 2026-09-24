@@ -45,7 +45,13 @@ Eventually, the surrounding environment has to record the state of the chip to f
 
 When the quantum limbo collapses into a definite, rendered state (a 1 or a 0), our microscopic thermometer will register a distinct, pure heat spike. 
 
-We are not just measuring a quantum particle. We are catching the universe in the act of paying the thermodynamic render toll. We are literally measuring the heat signature of reality booting up.
+**But there is a brutal engineering catch.** At 15 millikelvin, the natural, unavoidable "jitter" of the background temperature is about 10^-25 Joules. The render toll we are looking for is *also* exactly 10^-25 Joules. Our signal-to-noise ratio is exactly 1:1. 
+
+We are trying to find a specific grain of sand in the middle of a sandstorm. If we measure it once, we won't see anything but static.
+
+How do we beat the sandstorm? We run the universe's render engine millions of times. By statistically averaging the results over and over, the random thermal noise cancels itself out, and a pristine, undeniable heat spike emerges from the static. 
+
+We are not just measuring a quantum particle. We are forcing the universe to pay its thermodynamic render toll, millions of times over, until the receipt becomes visible. We are literally measuring the heat signature of reality booting up.
 
 ## Conclusion: The Final Proof
 
