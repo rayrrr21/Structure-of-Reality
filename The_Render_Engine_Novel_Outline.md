@@ -138,8 +138,14 @@ When a theoretical physicist and a cryogenic engineer detect the microscopic hea
 * **Chapter 21: Handing Over the Receipt**
   Kaelen flips the passive switch. The massive Landauer thermal wave hits the absorber array. The local universe pays its thermodynamic toll in one blinding, controlled flash of light and heat, restoring normal space-time to the two-block zone.
 
-* **Chapter 22: Epilogue (The Permanent Bruise & The Shadow Legacy)**
-  Six months later. The Nevada site has been cleared under a cover story of an underground gas explosion. Evelyn stands just outside the former perimeter line. Through thermal optics, a faint, permanent infrared ring remains suspended in the air directly over those exact two blocks—a permanent cosmic "bruise" showing where reality was audited, while the 70-year shadow legacy of covert quantum chemistry continues in the dark.
+* **Chapter 22: Epilogue (Viral Weather & The Scrambled Receipt)**
+  Six months later. The Nevada site has been cleared, and the public was told an underground gas main exploded across a two-block footprint. 
+  
+  In the weeks following the audit, the infrared thermal "bruise" hovering over Nevada caused a viral media storm. TikTok clips of "glowing ring clouds" went viral, weather channels debated an "unusual micro-thermal inversion," and conspiracy subreddits theorized about satellite lasers. But within a month, as chaotic atmospheric weather systems did their thing, the localized heat was gradually redistributed across the globe. 
+  
+  Evelyn stands outside the former perimeter fence, watching the sunset. She looks through her thermal optics. The bruise is almost gone—dissipated and scrambled into background thermal noise by the atmosphere. 
+  
+  She smiles, reflecting on the full circle: meteorologists can never predict the weather more than 14 days in advance because **the weather is the universe’s ultimate thermodynamic heat bath**. The atmosphere naturally scrambles and encrypts the Landauer receipts of reality collapse into unpredictable background noise. The viral excitement faded, the press moved on, and the world forgot—while somewhere in the dark, the render engine keeps running.
 
 ---
 
