@@ -61,29 +61,26 @@ When a theoretical physicist and a cryogenic engineer detect the microscopic hea
 
 ## Chapter-by-Chapter Detailed Outline
 
-### ACT I: The Heat Signature (Chapters 1–6)
+### ACT I: The Historical Lineage & The Heat Signature (Chapters 1–5)
 
-* **Chapter 1: The 15 Millikelvin Room**
-  Dr. Evelyn Vance and her team at CERN complete run $N=3,770$ of a landmark experiment. Using ultra-sensitive nanobolometers coupled to a transmon qubit at 15 mK, they isolate a recurring, microscopic heat spike of $1.43 \times 10^{-25}$ Joules. They have just measured the exact thermodynamic cost of wave-function collapse.
+* **Chapter 1: The 14th Street Raid**
+  A midnight SWAT raid on an industrial warehouse in South Philadelphia goes catastrophically wrong. A single suspect under the influence of *Nadir* sidesteps point-blank automatic fire, evades breacher charges, and vanishes into thin air. The suspect leaves behind three dead officers, a glitched two-block radius (20-degree heat spike, streetlights refracting at right angles), and an impossible $1.43 \times 10^{-25}\text{ J}$ Landauer heat signature.
 
-* **Chapter 2: The Static in the Sandstorm**
-  Evelyn brings the data to Dr. Marcus Thorne, a retired theoretical physics legend. Thorne realizes the terrifying implication: the universe is not a continuous block of space-time; it is a Just-In-Time rendering engine that deletes/scrambles unobserved data to stay within a finite entropy RAM limit.
+* **Chapter 2: The Thermodynamicist at the Crime Scene**
+  Dr. Evelyn Vance, a lead CERN physicist working as a federal consultant on anomalous energy, is brought to the 14th Street crime scene by the FBI. Analyzing the thermal sensor logs, she makes a chilling discovery: the drug user didn't just dodge bullets—they forced the local universe to pay a thermodynamic render toll to lock in a single surviving future path.
 
-* **Chapter 3: Midnight at Sub-Level 4**
-  Armed mercenaries assault Evelyn’s lab. Her research team is executed, and her servers are wiped. Evelyn is saved by Kaelen Voss, a rogue cryogenic contractor who uses a bizarre, frost-covered briefcase device to slip through a solid steel wall—phasing them into safety.
+* **Chapter 3: The Redacted Archives (1953–1986)**
+  Evelyn consults Dr. Marcus Thorne, a cynical theoretical physics legend. Thorne unseals classified intelligence dossiers detailing the 70-year shadow history of the compound: MKUltra’s early failed attempts at quantum basis control, the off-the-books slush funds funneled through Manuel Noriega’s Panama channels during the Iran-Contra era, and the dark 1980s testing programs that used disenfranchised Black urban neighborhoods as unacknowledged field labs for early precursor compounds.
 
-* **Chapter 4: The Limbo Rig**
-  In a hidden safehouse, Kaelen reveals his secret: he built a portable "Limbo Chassis" that creates a localized 15mK thermal isolation field, keeping small macroscopic objects unrendered. He warns Evelyn that military intelligence has been secretly building a massive facility based on her early papers.
+* **Chapter 4: From Crack Epidemic to Meth Houses**
+  Evelyn and Thorne team up with Kaelen Voss, an ex-Air Force cryogenics specialist. They interview an elderly 1980s community activist in North Philly who recalls "ghost batches" from the 80s that left glowing thermal marks on pavement. Kaelen traces the chemical precursor evolution from 1980s street crack to 2000s clandestine super-meth labs, discovering that someone has recently upgraded the synthesis process using sub-kelvin cryogenic equipment.
 
-* **Chapter 5: Project Frustum**
-  Thorne joins Evelyn and Kaelen. They trace the mercenary black-budget funding to "Project Frustum"—a covert DARPA facility deep in the Nevada desert directed by Harrison Drake. Drake isn't just storing quantum data; he is trying to keep an entire stealth division in unrendered quantum limbo.
-
-* **Chapter 6: The First Thermal Bruise**
-  Satellite imagery over Nevada reveals a terrifying anomaly: a massive, glowing infrared ring hovering in the stratosphere above the desert. Thorne identifies it as a "Landauer Heat Spike"—the thermodynamic waste heat of the universe struggling to render forced military assets.
+* **Chapter 5: Project Frustum Unmasked**
+  The team realizes *Nadir* isn't a street invention—it is an unacknowledged leak from **Project Frustum**, a black-budget DARPA program built on decades of covert intelligence drug data. The military engineered *Nadir* as a 30-second quantum predictive combat stimulant, but a breach at a precursor facility has flooded the black market.
 
 ---
 
-### ACT II: Hacking the Frustum (Chapters 7–13)
+### ACT II: Hacking the Frustum (Chapters 6–12)
 
 * **Chapter 7: Infiltration Protocol**
   Evelyn, Kaelen, and Thorne travel to Nevada. Kaelen constructs upgraded Limbo Rigs that allow them to bypass the facility’s external perimeter by phasing through the desert bedrock.
