@@ -80,69 +80,66 @@ When a theoretical physicist and a cryogenic engineer detect the microscopic hea
 
 ---
 
-### ACT II: Hacking the Frustum (Chapters 6–12)
+#### ACT II: The Nevada Black-Site & The Infiltration (Chapters 6–11)
 
-* **Chapter 7: Infiltration Protocol**
-  Evelyn, Kaelen, and Thorne travel to Nevada. Kaelen constructs upgraded Limbo Rigs that allow them to bypass the facility’s external perimeter by phasing through the desert bedrock.
+* **Chapter 6: The Phantom Supply Chain**
+  Evelyn, Kaelen, and Thorne trace the chemical precursor transport route from South Philly to an illegal precursor synthesis refinery hidden in an abandoned mining complex in Nevada. They discover how black-market syndicates and DARPA contractors have been extracting cryogenic precursors to supply both military ops and street dealers.
 
-* **Chapter 8: The Shadow Hangar**
-  Inside Sub-Level 9 of the Nevada complex, Evelyn beholds Project Frustum. Inside a massive, mile-wide vacuum chamber cooled by liquid helium, military stealth aircraft and tactical units hover as blurry, semi-transparent probability clouds. Drake is building an untraceable, phasing army.
+* **Chapter 7: The Limbo Rig Protocol**
+  In a makeshift desert workshop, Kaelen constructs field-grade Limbo Rigs. He demonstrates how taking a precise micro-dose of *Nadir* while inside a 15mK thermal isolation field allows a human to physically phase through solid perimeter walls by stepping along unrendered future probability paths.
 
-* **Chapter 9: The Air Horn Principle**
-  Evelyn realizes Drake’s catastrophic mistake: DARPA is using active microwave radar pulses to track the unrendered units inside the chamber. She confronts Drake, explaining that shooting high-energy microwaves ($10^{-22}\text{ J}$) into a $10^{-25}\text{ J}$ quantum limbo field is like blowing an air horn in a quiet room—it will force a violent, uncontrolled render.
+* **Chapter 8: Inside Sub-Level 9**
+  The team infiltrates DARPA’s covert Nevada facility. Deep inside Sub-Level 9, Evelyn beholds Project Frustum: entire stealth fighter jets, armored vehicles, and tactical units suspended as semi-transparent probability clouds inside a mile-wide 15mK vacuum chamber.
 
-* **Chapter 10: The Diósi-Penrose Threshold**
-  Drake refuses to shut down the project. He orders a full-scale test: bringing a 50-ton heavy tank unit back into active classical reality. As the tank renders, its immense mass triggers the Diósi-Penrose gravitational collapse threshold. Spacetime rebels against bending in two directions at once.
+* **Chapter 9: The Air Horn Catastrophe**
+  Evelyn confronts Project Director Harrison Drake. She discovers Drake is using high-energy active microwave radar ($10^{-22}\text{ J}$) inside the chamber to track unrendered troops—completely ignorant of the $10^{-25}\text{ J}$ Landauer limit. She warns him that firing microwaves into a quantum limbo field is like blowing an air horn in a quiet room.
 
-* **Chapter 11: Gravitational Detonation**
-  The tank doesn't just render—it creates a localized gravitational shockwave. The floor of the hangar implodes. The structural tension tears through Sub-Level 9, killing dozens of scientists and fracturing the facility’s cryogenic containment cooling lines.
+* **Chapter 10: The Diósi-Penrose Snap**
+  Drake refuses to shut down the program and orders a mass-render test with a 50-ton heavy armored vehicle. The vehicle's mass exceeds the Diósi-Penrose gravitational collapse threshold. Spacetime rebels against bending in two directions simultaneously, triggering a massive gravitational shockwave.
 
-* **Chapter 12: The Chain Reaction**
-  With cooling lines ruptured, hundreds of unrendered assets begin spontaneously decohering. Millions of bits of quantum limbo collapse simultaneously, dumping an unfathomable cascade of Landauer heat into the local environment.
-
-* **Chapter 13: The Sky Burns**
-  Above the desert, the infrared ring detonates into a visible, searing red aurora. The local temperature in the desert leaps by 30 degrees in seconds. The universe is paying the thermodynamic toll all at once.
+* **Chapter 11: The Nevada Detonation**
+  The armored vehicle doesn't just render—its gravitational shockwave ruptures Sub-Level 9’s primary liquid helium cooling lines. Hundreds of unrendered military assets decohere simultaneously, dumping an unfathomable cascade of Landauer heat into the subterranean facility.
 
 ---
 
-### ACT III: The Render Collision (Chapters 14–19)
+### ACT III: The Two-Block Breach & The Causal Bubble (Chapters 12–17)
 
-* **Chapter 14: The Two-Block Breach**
-  The explosion doesn't destroy the continent; it saturates the local Gibbons-Hawking entropy limit of the immediate area. A strictly bounded **two-block radius (~250 meters)** around the facility enters a "Render Collision." Outside the perimeter fence, the Nevada desert is quiet. Inside, space-time is melting.
+* **Chapter 12: The Two-Block Breach**
+  The thermal explosion saturates the local Gibbons-Hawking entropy limit ($S_{GH}$). A strictly bounded **two-block radius (~250 meters)** around the facility drops into a localized "Render Collision." Outside the perimeter fence, the Nevada desert is quiet. Inside, space-time is melting.
 
-* **Chapter 15: Inside the Bubble**
-  Evelyn, Kaelen, Thorne, and a surviving Drake find themselves trapped inside the two-block quarantine bubble. The sky directly above their heads is split into jagged, pixelated sectors, while just 200 meters away across the perimeter line, police sirens flash in normal air. Inside the bubble, shadows point in opposite directions, gravity drops to one-third, and light refracts at right angles.
+* **Chapter 13: Inside the Bubble**
+  Evelyn, Kaelen, Thorne, and a surviving Drake find themselves trapped inside the two-block quarantine bubble. The sky directly above their heads is split into jagged, pixelated sectors, while just 200 meters away across the perimeter line, emergency lights flash in normal air. Inside the bubble, gravity drops to one-third and light refracts at right angles.
 
-* **Chapter 16: Navigating the Future Tree**
-  As Compact Many-Worlds branches collapse into each other inside the two-block radius, the survivors must navigate a terrifying maze of forward probabilities. Under the influence of *Nadir*, Kaelen can see glowing, semi-transparent future decision trees expanding across the street—showing five different ways a collapsing building will crush them in 10 seconds, allowing them to thread the needle along the single surviving future path.
+* **Chapter 14: Predictive Combat on Main Street**
+  Mercenaries on *Nadir* turn on the team in a frantic battle of future-path navigation. Each soldier sees glowing "ghost trails" showing the next 30 seconds of combat—trying to out-step the other's future decision tree before it collapses into reality.
 
-* **Chapter 17: The Garbage Collector**
-  Thorne's sensors register a horrifying trend: the two-block bubble isn't expanding outward—it is contracting inward. The universe’s emergency protocol has activated: it is coarse-graining and un-installing the entire two-block radius to wipe the corrupted memory sector from the causal diamond.
+* **Chapter 15: The Contracting Horizon**
+  Thorne's sensors register a horrifying trend: the two-block bubble isn't expanding—it is **contracting inward**. The universe's emergency garbage collection protocol has activated: it is coarse-graining and uninstalling the entire two-block radius to wipe the corrupted memory sector.
 
-* **Chapter 18: The Sleep Mode Trap**
-  Drake, driven insane by alternate timeline memories, attempts to hijack Kaelen's remaining Limbo Rig to sprint across the bubble boundary into an alternate reality. Evelyn proves mathematically that stepping out of the bubble without resetting the entropy gradient will simply freeze his consciousness into uncomputed sleep mode.
+* **Chapter 16: The Sleep Mode Trap**
+  Drake attempts to sprint across the contracting bubble boundary using a dying Limbo Rig. Evelyn proves mathematically that stepping outside without resetting the localized entropy gradient will permanently freeze his consciousness into uncomputed sleep mode.
 
-* **Chapter 19: The Master Equation**
-  Trapped at the center of the shrinking two-block bubble, Evelyn uses Thorne's terminal to calculate the exact solution: they must use the facility's backup resonant absorber to reset the localized entropy gradient before the bubble shrinks to zero.
+* **Chapter 17: The Master Equation**
+  Trapped at the center of the shrinking 50-meter bubble, Evelyn calculates the exact solution: they must use the facility's surviving passive resonant absorber array to force a controlled basis selection reset before the bubble contracts to zero.
 
 ---
 
-### ACT IV: Auditing the Engine (Chapters 20–24)
+### ACT IV: Auditing the Engine (Chapters 18–22)
 
-* **Chapter 20: The Cold Resistor Array**
-  Evelyn and Kaelen build an emergency circuit inside the two-block core, connecting the passive absorber array to the surviving sub-zero cooling lines.
+* **Chapter 18: The Cold Resistor Array**
+  Evelyn and Kaelen construct an emergency passive circuit inside the core, connecting the nanobolometer absorber array to the surviving sub-zero cooling lines.
 
-* **Chapter 21: The Sacrifice at Sub-Zero**
-  Kaelen manually enters the super-cooled core at the center of the bubble to align the nanobolometer coupling coils, enduring a brutal thermal gradient between the collapsing bubble's heat and absolute zero.
+* **Chapter 19: The Sacrifice at Sub-Zero**
+  Kaelen manually enters the super-cooled reactor core to align the nanobolometer coupling coils, enduring a brutal thermal gradient between the collapsing bubble's heat and absolute zero.
 
-* **Chapter 22: Forcing the Basis**
+* **Chapter 20: Forcing the Basis**
   As the two-block bubble contracts to its final 10-meter radius, Evelyn executes the master command, forcing the local environment to make $N = 10^9$ redundant copies of a single, stable physical state.
 
-* **Chapter 23: Handing Over the Receipt**
-  Kaelen flips the passive switch. The massive Landauer thermal wave hits the absorber array. The local universe pays its thermodynamic toll in one blinding, controlled flash of light and heat, flushing the corrupted information and restoring normal space-time to the two-block zone.
+* **Chapter 21: Handing Over the Receipt**
+  Kaelen flips the passive switch. The massive Landauer thermal wave hits the absorber array. The local universe pays its thermodynamic toll in one blinding, controlled flash of light and heat, restoring normal space-time to the two-block zone.
 
-* **Chapter 24: Epilogue (The Permanent Bruise)**
-  Six months later. The Nevada site has been cleared, and the public was told a gas main exploded across a two-block facility footprint. Evelyn stands just outside the former perimeter line. Through thermal optics, a faint, permanent infrared ring remains suspended in the air directly over those exact two blocks—a permanent cosmic "bruise" showing where reality was audited and re-rendered.
+* **Chapter 22: Epilogue (The Permanent Bruise & The Shadow Legacy)**
+  Six months later. The Nevada site has been cleared under a cover story of an underground gas explosion. Evelyn stands just outside the former perimeter line. Through thermal optics, a faint, permanent infrared ring remains suspended in the air directly over those exact two blocks—a permanent cosmic "bruise" showing where reality was audited, while the 70-year shadow legacy of covert quantum chemistry continues in the dark.
 
 ---
 
