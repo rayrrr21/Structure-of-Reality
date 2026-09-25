@@ -13,8 +13,8 @@
 ┌────┬───────────────────────────────────────┬────────────┬────────────────────────────┬──────────┬─────────────┐
 │ CH │ CHAPTER TITLE                         │ POV        │ LOCATION / CAUSAL RADIUS   │ STATUS   │ WORDS (EST) │
 ├────┼───────────────────────────────────────┼────────────┼────────────────────────────┼──────────┼─────────────┤
-│ 01 │ The 14th Street Ambush                │ Tariq/Cook │ South Philly Rowhouse (250m)│ STAGE 1-2│ 3,800       │
-│ 02 │ Sniper in the Thermal Fog             │ Evelyn     │ Industrial District (250m) │ QUEUED   │ 4,000       │
+│ 01 │ The 14th Street Ambush                │ Tariq/Cook │ South Philly Rowhouse (250m)│ LOCKED   │ ~1,850      │
+│ 02 │ Sniper in the Thermal Fog             │ Evelyn     │ Industrial District (250m) │ LOCKED   │ ~1,600      │
 │ 03 │ The Notebooks of a "Crackhead Genius" │ Evelyn     │ Thorne's Boston Brownstone │ QUEUED   │ 4,200       │
 │ 04 │ Firefight in North Philly             │ Kaelen     │ Abandoned Meatpacking Plant│ QUEUED   │ 4,500       │
 │ 05 │ The Phantom Highway Chase             │ Kaelen     │ I-95 South Corridor (250m) │ QUEUED   │ 3,900       │
