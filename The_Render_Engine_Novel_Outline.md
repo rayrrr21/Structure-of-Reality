@@ -16,8 +16,9 @@ When a theoretical physicist and a cryogenic engineer detect the microscopic hea
 
 1. **The Landauer Toll:** Every time a quantum superposition collapses into a definite classical state, the environment MUST dissipate a minimum heat signature of $Q \ge k_B T \ln 2$ Joules per bit. Observation is a thermodynamic transaction.
 2. **The Shadow State (Unrendered Space):** Objects cooled to 15 millikelvin and isolated from environmental interaction remain in an unrendered state of quantum limbo. In this state, matter can phase through physical barriers, and states exist purely as probability clouds.
-3. **Thermal Feedback (Render Bruises):** Massively forcing unrendered states to collapse dumps localized, extreme thermal feedback into the atmosphere, creating anomalous, glowing thermal "bruises" identical to cosmic microwave background anomalies.
-4. **The Gibbons-Hawking Memory Limit:** A local observer's Causal Patch possesses a finite entropy bound ($S_{GH} = \frac{3\pi k_B}{G\Lambda}$). If the local computational load exceeds this RAM limit, the universe initiates coarse-graining—causing alternate historical timelines to violently collide.
+3. **The Two-Block Causal Bubble (Hyper-Localized Frustum):** The universe optimizes its computational RAM by strictly scoping JIT rendering to the **immediate thermodynamic environment—a hyper-localized radius of roughly two city blocks (~200 to 300 meters)**. Reality glitches, timeline hemorrhages, and domain wall collisions DO NOT destroy the world; they form an isolated, claustrophobic "Bubble." Outside the two-block perimeter, normal reality continues unaffected. Stepping across the boundary curb means stepping directly between stable physics and probability chaos.
+4. **Thermal Feedback (Render Bruises):** Massively forcing unrendered states to collapse dumps localized, extreme thermal feedback into the atmosphere, creating anomalous, glowing thermal "bruises" hovering directly over the two-block zone.
+5. **The Gibbons-Hawking Memory Limit:** A local observer's Causal Patch possesses a finite entropy bound ($S_{GH} = \frac{3\pi k_B}{G\Lambda}$). If the local computational load within a two-block bubble exceeds this RAM limit, the universe initiates coarse-graining—causing alternate historical timelines to violently collide inside that isolated radius.
 
 ---
 
@@ -105,46 +106,42 @@ When a theoretical physicist and a cryogenic engineer detect the microscopic hea
 
 ### ACT III: The Render Collision (Chapters 14–19)
 
-* **Chapter 14: The Domain Wall Breach**
-  The explosion doesn't just destroy the facility; it saturates the local Gibbons-Hawking entropy limit of the Nevada Causal Patch. The universe runs out of local computational capacity. A 50-mile zone around the facility enters a "Render Collision."
+* **Chapter 14: The Two-Block Breach**
+  The explosion doesn't destroy the continent; it saturates the local Gibbons-Hawking entropy limit of the immediate area. A strictly bounded **two-block radius (~250 meters)** around the facility enters a "Render Collision." Outside the perimeter fence, the Nevada desert is quiet. Inside, space-time is melting.
 
-* **Chapter 15: Inside the Collision Zone**
-  Evelyn, Kaelen, Thorne, and a surviving Drake find themselves trapped inside a nightmare landscape. The sky is split into jagged, pixelated sectors. Shadows point in opposite directions. Physical constants fluctuate—gravity drops to one-third, and light refracts at impossible right angles.
+* **Chapter 15: Inside the Bubble**
+  Evelyn, Kaelen, Thorne, and a surviving Drake find themselves trapped inside the two-block quarantine bubble. The sky directly above their heads is split into jagged, pixelated sectors, while just 200 meters away across the perimeter line, police sirens flash in normal air. Inside the bubble, shadows point in opposite directions, gravity drops to one-third, and light refracts at right angles.
 
-* **Chapter 16: Bleeding Timelines**
-  As Compact Many-Worlds branches collapse into each other, the survivors experience "historical hemorrhage." They begin perceiving memories of alternate lives—timelines where the war was lost, timelines where CERN was never built, timelines where their dead loved ones are still alive.
+* **Chapter 16: Bleeding Timelines on Main Street**
+  As Compact Many-Worlds branches collapse into each other inside the two-block radius, the survivors experience "historical hemorrhage." Walking across an intersection inside the bubble means walking through alternate versions of the same two blocks—a 1950s diner, a burned-out futuristic bunker, and a virgin desert, all rendered on top of each other.
 
 * **Chapter 17: The Garbage Collector**
-  Thorne's sensors register a horrifying trend: the boundary of the collision zone is expanding, but inside, matter is systematically dissolving into uniform gray static. The universe’s emergency protocol has activated—it is coarse-graining and un-installing the corrupted sector to save the global server.
+  Thorne's sensors register a horrifying trend: the two-block bubble isn't expanding outward—it is contracting inward. The universe’s emergency protocol has activated: it is coarse-graining and un-installing the entire two-block radius to wipe the corrupted memory sector from the causal diamond.
 
 * **Chapter 18: The Sleep Mode Trap**
-  Drake, driven insane by alternate timeline memories, attempts to hijack Kaelen's remaining Limbo Rig to phase himself into a parallel reality. Evelyn proves mathematically that unobserved parallel branches are in "quiescent sleep mode"—phasing into them will simply freeze his consciousness into an uncomputed void forever.
+  Drake, driven insane by alternate timeline memories, attempts to hijack Kaelen's remaining Limbo Rig to sprint across the bubble boundary into an alternate reality. Evelyn proves mathematically that stepping out of the bubble without resetting the entropy gradient will simply freeze his consciousness into uncomputed sleep mode.
 
 * **Chapter 19: The Master Equation**
-  Trapped in a crumbling research bunker at the center of the zone, Evelyn uses Thorne's quantum modeling terminal to find a way out. She realizes they cannot stop the render, but they can force a *basis selection rewrite* by manually controlling the system-environment entropy gradient.
+  Trapped at the center of the shrinking two-block bubble, Evelyn uses Thorne's terminal to calculate the exact solution: they must use the facility's backup resonant absorber to reset the localized entropy gradient before the bubble shrinks to zero.
 
 ---
 
 ### ACT IV: Auditing the Engine (Chapters 20–24)
 
 * **Chapter 20: The Cold Resistor Array**
-  Evelyn and Kaelen design an emergency circuit: using the facility's surviving geothermal backup generator to drive a massive passive resonant absorber array. Instead of letting the universe randomly dump Landauer heat into space-time, they will channel the entire collapse through a single, controlled thermodynamic sink.
+  Evelyn and Kaelen build an emergency circuit inside the two-block core, connecting the passive absorber array to the surviving sub-zero cooling lines.
 
 * **Chapter 21: The Sacrifice at Sub-Zero**
-  Kaelen must manually enter the super-cooled reactor core to align the nanobolometer coupling coils. Equipped with a dying Limbo Rig, he faces a lethal thermal gradient—the heat of the collapsing universe on one side, and absolute zero on the other.
+  Kaelen manually enters the super-cooled core at the center of the bubble to align the nanobolometer coupling coils, enduring a brutal thermal gradient between the collapsing bubble's heat and absolute zero.
 
 * **Chapter 22: Forcing the Basis**
-  As the collision zone contracts to its final 100 meters, Evelyn executes the master command. She forces the quantum environment to make $N = 10^9$ redundant copies of a single, stable physical state—locking in their baseline reality.
+  As the two-block bubble contracts to its final 10-meter radius, Evelyn executes the master command, forcing the local environment to make $N = 10^9$ redundant copies of a single, stable physical state.
 
 * **Chapter 23: Handing Over the Receipt**
-  Kaelen flips the final passive switch. The massive Landauer thermal wave hits the absorber array. The local universe pays its thermodynamic toll in one blinding, controlled flash of light and heat, flushing the corrupted information from the causal patch.
+  Kaelen flips the passive switch. The massive Landauer thermal wave hits the absorber array. The local universe pays its thermodynamic toll in one blinding, controlled flash of light and heat, flushing the corrupted information and restoring normal space-time to the two-block zone.
 
 * **Chapter 24: Epilogue (The Permanent Bruise)**
-  Six months later. The Nevada containment zone has been reopened. The physics of space-time have stabilized, and the public has been told the explosion was a underground gas pocket. 
-
-  Evelyn sits on a ridge outside Las Vegas at sunset, looking up at the sky. Through specialized thermal optics, a faint, permanent infrared ring remains visible in the upper atmosphere—a permanent cosmic "bruise." 
-
-  The universe is still running its Just-In-Time engine. It is still erasing the past to render the present. And somewhere in the dark, the bill is still being paid.
+  Six months later. The Nevada site has been cleared, and the public was told a gas main exploded across a two-block facility footprint. Evelyn stands just outside the former perimeter line. Through thermal optics, a faint, permanent infrared ring remains suspended in the air directly over those exact two blocks—a permanent cosmic "bruise" showing where reality was audited and re-rendered.
 
 ---
 
