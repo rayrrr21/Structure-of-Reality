@@ -15,7 +15,7 @@
 ├────┼───────────────────────────────────────┼────────────┼────────────────────────────┼──────────┼─────────────┤
 │ 01 │ The 14th Street Ambush                │ Tariq/Cook │ South Philly Rowhouse (250m)│ LOCKED   │ ~1,850      │
 │ 02 │ Sniper in the Thermal Fog             │ Evelyn     │ Industrial District (250m) │ LOCKED   │ ~1,600      │
-│ 03 │ The Notebooks of a "Crackhead Genius" │ Evelyn     │ Thorne's Boston Brownstone │ QUEUED   │ 4,200       │
+│ 03 │ The Notebooks of a "Crackhead Genius" │ Evelyn     │ Thorne's Boston Brownstone │ LOCKED   │ ~1,750      │
 │ 04 │ Firefight in North Philly             │ Kaelen     │ Abandoned Meatpacking Plant│ QUEUED   │ 4,500       │
 │ 05 │ The Phantom Highway Chase             │ Kaelen     │ I-95 South Corridor (250m) │ QUEUED   │ 3,900       │
 │ 06 │ Intercepting the Precursor Convoy     │ Evelyn     │ Nevada Desert Route 6      │ QUEUED   │ 4,100       │
