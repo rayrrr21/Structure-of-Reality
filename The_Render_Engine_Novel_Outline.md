@@ -30,7 +30,8 @@ When an FBI raid on a South Philly drug lab goes wrong after a suspect dodges po
 
 ### 1. Dr. Evelyn Vance (The Thermodynamicist)
 * **Role:** Protagonist. Lead experimental physicist at CERN & FBI Energy Consultant.
-* **Drama:** Driven by the mysterious disappearance of her brother during a 2010 black-budget physics anomaly. Obsessive, brilliant, but forced to step into high-octane tactical combat when her lab is destroyed.
+* **Drama & Core Motivation:** Driven by the mysterious 2012 disappearance of her older brother, **Marcus Vance**. To the rest of the family and the world, Marcus was written off as "just a crack head"—an unstable addict hustling on the streets of North Philly. But Evelyn knew the truth: Marcus was a self-taught, un-credentialed genius who filled notebooks with brilliant, hyper-optimized business concepts and sub-atomic systems math that were lightyears ahead of their time. 
+* **The Heartbreak:** Before he vanished, Marcus was actually using early black-market precursor batches of *Nadir* to perceive future economic and probability paths—generating brilliant ideas, but suffering severe neural Landauer heat damage that made him appear insane. Evelyn carries immense guilt for not believing him, and her entire career at CERN was built on deciphering the handwritten heat equations left behind in Marcus's old notebooks.
 
 ### 2. Kaelen Voss (The Cryogenic Operative)
 * **Role:** Co-Protagonist. Former Air Force Special Tactics & Elite Cryogenics Specialist.
@@ -56,8 +57,8 @@ When an FBI raid on a South Philly drug lab goes wrong after a suspect dodges po
 * **Chapter 2: Sniper in the Thermal Fog**
   Dr. Evelyn Vance is brought to the 14th Street crime scene by FBI Special Agent Miller. While analyzing the sensor logs, a black-ops sniper opens fire from a rooftop. Evelyn uses thermal camera arrays to track the sniper’s infrared signature, barely surviving a high-speed vehicle pursuit through Philly’s industrial district.
 
-* **Chapter 3: The Redacted Archives (1953–1986)**
-  Evelyn seeks out Dr. Marcus Thorne in his barricaded Boston brownstone. Thorne unseals classified intelligence dossiers detailing the 70-year shadow history: MKUltra’s early failed attempts at quantum control, Manuel Noriega’s Panama slush funds during Iran-Contra, and the dark 1980s testing programs that used disenfranchised Black urban neighborhoods as unacknowledged field labs for early precursor compounds.
+* **Chapter 3: The Notebooks of a "Crackhead Genius"**
+  Evelyn seeks out Dr. Marcus Thorne in his barricaded Boston brownstone. She shows Thorne her brother Marcus's old 2011 street notebooks—filled with frantic, brilliant business plans written over explicit sub-kelvin Landauer equations. Thorne unseals classified intelligence dossiers confirming Marcus's tragedy: Marcus wasn't a junkie; he had stumbled onto early precursor batches in North Philly, using *Nadir* to see future economic probability trees before his neural burnout. Intelligence archives reveal Marcus was kidnapped in 2012 by DARPA contractors to serve as Project Frustum's chief precursor architect.
 
 * **Chapter 4: Firefight in North Philly**
   Kaelen Voss saves Evelyn and Thorne from a black-ops kill squad that detonates Thorne’s brownstone. Kaelen reveals his father was a victim of the 1980s "ghost batches." They raid a clandestine precursor lab hidden in an abandoned North Philly meatpacking plant, engaging in a brutal, close-quarters firefight against mercenaries using *Nadir* micro-doses.
@@ -76,7 +77,7 @@ When an FBI raid on a South Philly drug lab goes wrong after a suspect dodges po
   To bypass Sub-Level 9’s impenetrable surface defences, Kaelen upgrades their field Limbo Rigs. Evelyn and Kaelen take micro-doses of *Nadir* and phase through 100 feet of solid Nevada granite bedrock under a terrifying 30-second timer—knowing that if the rig fails mid-descent, they will render inside solid stone.
 
 * **Chapter 8: Inside the Shadow Hangar**
-  Infiltrating Sub-Level 9, Evelyn beholds Project Frustum: entire stealth fighter jets, armored tanks, and tactical platoons suspended as semi-transparent probability clouds inside a mile-wide 15mK vacuum chamber.
+  Infiltrating Sub-Level 9, Evelyn beholds Project Frustum: entire stealth fighter jets, armored tanks, and tactical platoons suspended as semi-transparent probability clouds inside a mile-wide 15mK vacuum chamber. Inside the central laboratory, Evelyn finds Marcus’s personal terminal log—discovering that her brother deliberately sabotaged Drake’s active microwave tracking system before his death, leaving a hidden thermodynamic backdoor for someone who understood his math to shut down the project.
 
 * **Chapter 9: The Standoff at Absolute Zero**
   Drake captures Thorne and holds him hostage inside the control bridge. Evelyn discovers Drake is firing high-energy active microwave tracking radars ($10^{-22}\text{ J}$) into the chamber. She confronts Drake: shooting microwaves into a $10^{-25}\text{ J}$ quantum limbo field is like blowing an air horn next to a sleeping baby—it will force an explosive, uncontrolled render.
