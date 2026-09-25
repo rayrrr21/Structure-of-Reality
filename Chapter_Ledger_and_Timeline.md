@@ -17,7 +17,7 @@
 │ 02 │ Sniper in the Thermal Fog             │ Evelyn     │ Industrial District (250m) │ LOCKED   │ ~1,600      │
 │ 03 │ The Notebooks of a "Crackhead Genius" │ Evelyn     │ Thorne's Boston Brownstone │ LOCKED   │ ~1,750      │
 │ 04 │ Firefight in North Philly             │ Kaelen     │ Abandoned Meatpacking Plant│ LOCKED   │ ~1,500      │
-│ 05 │ The Phantom Highway Chase             │ Kaelen     │ I-95 South Corridor (250m) │ QUEUED   │ 3,900       │
+│ 05 │ The Phantom Highway Chase             │ Kaelen     │ I-95 South Corridor (250m) │ LOCKED   │ ~1,550      │
 │ 06 │ Intercepting the Precursor Convoy     │ Evelyn     │ Nevada Desert Route 6      │ QUEUED   │ 4,100       │
 │ 07 │ Phasing the Bedrock                   │ Kaelen     │ Sub-Level 9 Descent        │ QUEUED   │ 4,300       │
 │ 08 │ Inside the Shadow Hangar              │ Evelyn     │ 15mK Vacuum Hangar         │ QUEUED   │ 4,600       │
